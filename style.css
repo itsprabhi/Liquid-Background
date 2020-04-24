@@ -33,6 +33,8 @@ canvas {
     display: block;
     top: 0;
     left: 0;
+    margin: 0;
+    padding: 0;
 }
 
 nav a {
